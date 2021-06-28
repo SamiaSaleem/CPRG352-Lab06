@@ -18,7 +18,7 @@
          <h2>List</h2> <br>
          <form action="shoppingList" method="get">
             Add Item: <input type="text" name="item" ><input type="submit" value="Add" action="add">
-            
+             
             
             <input type="submit" value="delete" action="delete">
             
